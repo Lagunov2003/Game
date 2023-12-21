@@ -37,3 +37,8 @@ allprojects {
     }
 }
 
+test {
+    useJUnitPlatform()
+}
+
+
